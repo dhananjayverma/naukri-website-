@@ -1,7 +1,6 @@
 # naukri-website-clone 
 // updated
-
-Website Deployed Link:- https://ornate-lollipop-ac21f9.netlify.app
+Deploy Link :https://genuine-sunburst-172606.netlify.app
 
 
 
